@@ -1,13 +1,21 @@
-# token-joiner-and-booster
-To start work with tool open config.json and complete
+click 
 
+link below to tutorial
 
-   "captcha_service": "capmonster", 
-    "captcha_api_key": "ur capmonster api key",
-    "invite": "https://discord.gg/urcode",
-    "joinDelay": 3000, //delay of join
-    "useProxies": false, //use proxy or not
+    "captcha_service": "capmonster", 
+    
+    "captcha_api_key": "", capmonster api
+    
+    "invite": "", discord server invite code
+    
+    "joinDelay": 3000, delay of joining
+    
+    "useProxies": false, true or false
+    
     "boost": {
-        "enabled": true, //auto boost true or false
-        "delay": 3000, //delay
-        "serverId": "ur server id"
+      
+        "enabled": true, true or false
+      
+        "delay": 3000, delay of boosting
+      
+        "serverId": "" server id
