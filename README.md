@@ -1,6 +1,4 @@
-click 
 
-link below to tutorial
 
     "captcha_service": "capmonster", 
     
